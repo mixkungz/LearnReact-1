@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const App = () =>{
-  return <div><h1>test</h1></div>;
+  return <div><h1>Koisuru Fortune Cookie</h1></div>;
 }
 
 ReactDOM.render(<App />,document.querySelector('.container'));
